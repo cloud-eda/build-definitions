@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: build-definitions
+  annotations:
+    github.com/project-slug: cloud-eda/build-definitions
+spec:
+  type: other
+  owner: cloud-eda
+  lifecycle: unknown
